@@ -1,0 +1,13 @@
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python junk
+__pycache__/
+*.py[cod]
+
+# CTF specific
+*.pcapng    # Nếu file pcap quá nặng không muốn up
+*.core      # File crash dump
+.env        # File chứa key bí mật (nếu có)
