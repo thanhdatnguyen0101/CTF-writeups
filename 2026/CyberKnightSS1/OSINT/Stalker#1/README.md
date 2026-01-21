@@ -24,3 +24,4 @@
 
 ## C. Kết quả (The Flag)
 ### CKGS1{K3t_b4n_bloxFruit_vOi_m1nH_nK3_h1H1}
+###### Thấy hay thì cho mình xin 1 star :_)
