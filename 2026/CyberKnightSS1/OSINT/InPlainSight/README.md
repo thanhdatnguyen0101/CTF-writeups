@@ -13,7 +13,7 @@
 
 ### 1. Tiếp cận ban đầu
 * Mục tiêu của ta là lấy càng nhiều thông tin càng tốt, đầu tiên theo thói quen mình sẽ search thử tên "Lux1dus" và tadaa kết quả hiện ra 
-![Kết quả search Lux1dus](images/searchgg.png)
+[![Kết quả search Lux1dus]([images/searchgg.png](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/db5b646e66d52d2c23033bfcb2b99d62161427a0/images/searchgg.png))
 * Mình sẽ tạm thời để 1 tab ở đó, và chuyển sang đường link trong discord như đề đã cho (Hint đầu tiên) 
 ![Link in Discord](images/discordlink.png)
 
