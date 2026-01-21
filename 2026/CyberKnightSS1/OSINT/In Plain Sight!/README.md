@@ -14,8 +14,7 @@
 * Search thử "Lux1dus" ta được các kết quả tìm kiếm sau 
 ![image alt](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/2b8f9cce7502a6cf6d9b5936d02c55dceb8be482/images/searchgg.png)
 * Nhấp vào kết quả đầu tiên sẽ hiện ra trang cá nhân của người được nhắc đến trong đề, ta thấy bài đăng đầu tiên có nhắc hint khá lộ liễu 
-![image alt](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/2b8f9cce7502a6cf6d9b5936d02c55dceb8be482/images/hint2.png)
-* Ấn vào phần bình luận sẽ có 1 link canva, nhấn vào sẽ ra 500 hình giống nhau, giờ nhiệm vụ của ta là tìm 1 "con số" chính xác và sẽ có flag ở tấm hình của "con số" đó.
+![image alt](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/2b8f9cce7502a6cf6d9b5936d02c55dceb8be482/images/hint2.png) ấn vào phần bình luận sẽ có 1 link canva, nhấn vào sẽ ra 500 hình giống nhau, giờ nhiệm vụ của ta là tìm 1 "con số" chính xác và sẽ có flag ở tấm hình của "con số" đó.
 * Trở về lại phần tìm kiếm lúc nãy có 1 group fb, ta thử vào đó tìm hint :) 
 ![image alt](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/2b8f9cce7502a6cf6d9b5936d02c55dceb8be482/images/groupfb.png)
 * Nhấp vào cuộc đối thoại, ta sẽ thấy 1 tọa độ
@@ -28,10 +27,10 @@
 ![image alt](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/4cc77bdeec95ec15fb89a245692821c660df761d/images/canva223.png)
 * Lật hình lại 1 chút cho dễ nhìn 
 ![image alt](https://github.com/thanhdatnguyen0101/CTF-writeups/blob/4cc77bdeec95ec15fb89a245692821c660df761d/images/flag2.png)
+###### p/s: Dĩ nhiên bài sẽ còn rất nhiều hướng đi nhưng đây là toàn bộ quá trình mình làm.
 
 ## C. Kết quả (The Flag)
 ### CKGS1{pr3tty_w3ll_h1dd3n_huh_wink_wink_:)}
 
 ###### Thấy hay thì cho mình xin 1 star :_)
-
 
