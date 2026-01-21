@@ -26,8 +26,8 @@ def create_structure():
     if not os.path.exists(readme_path):
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write(f"# {chal_name}\n\n")
-            f.write(f"**Category:** {category}\n")
-            f.write("**Event:** " + event + "\n\n")
+            f.write(f"* **Category:** {category}\n")
+            f.write("* **Event:** " + event + "\n\n")
             f.write("## Description\n> ...\n\n")
             f.write("## Solution\nWriteup here...\n")   
     
