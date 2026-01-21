@@ -13,9 +13,9 @@
 
 ### 1. Tiếp cận ban đầu
 * Mục tiêu của ta là lấy càng nhiều thông tin càng tốt, đầu tiên theo thói quen mình sẽ search thử tên "Lux1dus" và tadaa kết quả hiện ra 
-(images/Screenshot 2026-01-22 003054.png)
+![Kết quả search Lux1dus](images/Screenshot 2026-01-22 003054.png)
 * Mình sẽ tạm thời để 1 tab ở đó, và chuyển sang đường link trong discord như đề đã cho (Hint đầu tiên) 
-(images/Screenshot 2026-01-22 002945.png)
+![Link in Discord](images/Screenshot 2026-01-22 002945.png)
 
 ### Bước 2: Các bước thực hiện (Step-by-step)
 Mô tả chi tiết quá trình bypass hoặc tấn công:
